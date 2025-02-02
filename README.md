@@ -1,0 +1,1 @@
+The Event Planner is a web-based application designed to help users efficiently plan, manage, and organize events. It provides features like event scheduling, guest management, reminders, and budgeting to ensure seamless event execution.
